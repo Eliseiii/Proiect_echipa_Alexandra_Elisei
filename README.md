@@ -1,9 +1,8 @@
 # Proiect_echipa_Alexandra_Elisei
-import psutil
+```import psutil
 import tkinter as tk
 import time
 import os
-
 
 def converteste_bytes(bytes_val):
     """
@@ -66,7 +65,8 @@ def start_monitorizare():
         print("\nMonitorizare oprită de utilizator.")
 
 
-# Rulăm funcția
+#Rulăm funcția
 if __name__ == "__main__":
     int_vsl=float(input())
     start_monitorizare()
+```
